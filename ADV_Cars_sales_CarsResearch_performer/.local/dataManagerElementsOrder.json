@@ -128,11 +128,11 @@
       "Path": "Workflows/SeachCars.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "dt_attachment_content&Sequence_15",
+        "dt_extract_datatable&Sequence_16",
         "TransactionItem&Sequence_1",
         "str_sequence_name&Sequence_1",
-        "bool_exist&Sequence_1",
-        "dt_attachment_content&Sequence_3",
-        "dt_extract_datatable&Sequence_8"
+        "bool_exist&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [
         "in_TransactionItemSrch",

@@ -21044,9 +21044,9 @@
     "restore": {
       "projectUniqueName": "ADV_Cars_sales_CarsResearch_performer",
       "projectName": "ADV_Cars_sales_CarsResearch_performer",
-      "projectPath": "C:\\Users\\Dell\\Documents\\UiPath\\ADV_Cars_sales_CarsResearch_performer\\.local",
+      "projectPath": "C:\\Users\\Dell\\Documents\\UiPath\\ADV_Cars_sales_CarsResearch\\ADV_Cars_sales_CarsResearch_performer\\.local",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\UiPath\\ADV_Cars_sales_CarsResearch_performer\\.local"
+      "outputPath": "C:\\Users\\Dell\\Documents\\UiPath\\ADV_Cars_sales_CarsResearch\\ADV_Cars_sales_CarsResearch_performer\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {

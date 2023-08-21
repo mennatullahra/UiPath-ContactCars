@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "niHyBIC+9EBdvZqD6L9Dg1vRotA0L4xAt9aEV37iO4Ts3BBJ8QuHd6RNxTMpYaiwGLxPmzI7us2++p4PHQxjdw==",
+  "dgSpecHash": "MucQc9BSmjewCN0niwbxrw7yWw3eq2aWxxb8r/TxTgCduGMHc+j3o1WTg+UD6jVo3nLRrabE+XrkM4Fsapu8Qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\UiPath\\ADV_Cars_sales_CarsResearch_performer\\.local\\",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\UiPath\\ADV_Cars_sales_CarsResearch\\ADV_Cars_sales_CarsResearch_performer\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
