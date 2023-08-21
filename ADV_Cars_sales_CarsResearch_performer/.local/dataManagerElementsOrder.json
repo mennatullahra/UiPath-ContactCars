@@ -128,11 +128,11 @@
       "Path": "Workflows/SeachCars.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "dt_attachment_content&Sequence_15",
-        "dt_extract_datatable&Sequence_16",
-        "TransactionItem&Sequence_1",
         "str_sequence_name&Sequence_1",
-        "bool_exist&Sequence_1"
+        "bool_exist&Sequence_1",
+        "TransactionItem&Sequence_1",
+        "dt_attachment_content&Sequence_15",
+        "dt_extract_datatable&Sequence_16"
       ],
       "ArgumentsSectionElementsOrder": [
         "in_TransactionItemSrch",
@@ -167,6 +167,8 @@
       "Path": "Workflows/ScrappingResults.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "int_counter&Sequence_9",
+        "ExtractDataTable&Sequence_9",
         "str_sequence_name&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [
@@ -198,6 +200,16 @@
         "in_TransactionItem",
         "in_Config",
         "in_current_row"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/CloseAllApplications.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
