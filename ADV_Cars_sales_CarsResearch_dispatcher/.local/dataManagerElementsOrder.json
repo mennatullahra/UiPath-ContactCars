@@ -46,6 +46,7 @@
       "Path": "Framework/GetTransactionData.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "dt_extracted_attachment&Sequence_29",
         "dt_attachment_content&Sequence_1",
         "str_sequence_name&Sequence_1"
       ],
@@ -78,6 +79,7 @@
       "Path": "Framework/Process.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "str_sender&Sequence_2",
         "str_excel_file&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [

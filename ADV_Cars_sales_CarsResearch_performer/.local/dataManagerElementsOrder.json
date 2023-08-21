@@ -89,12 +89,12 @@
       "Path": "Workflows/LogInToContactcars.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "str_sequence_name&TryCatch_2",
-        "str_sequence_name&TryCatch_1",
-        "bool_exists&Sequence_1",
-        "bool_loggedin&Sequence_13",
-        "str_loggedin&Sequence_13",
-        "variable1&Sequence_14"
+        "str_sequence_name&TryCatch_3",
+        "str_sequence_name&TryCatch_4",
+        "bool_loggedin&Sequence_21",
+        "str_loggedin&Sequence_21",
+        "variable1&Sequence_22",
+        "bool_exists&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [
         "in_Config"
@@ -128,14 +128,15 @@
       "Path": "Workflows/SeachCars.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "TransactionItem&Sequence_1",
         "str_sequence_name&Sequence_1",
         "bool_exist&Sequence_1",
         "dt_attachment_content&Sequence_3",
         "dt_extract_datatable&Sequence_8"
       ],
       "ArgumentsSectionElementsOrder": [
-        "in_ConfigSearch",
-        "in_TransactionItem"
+        "in_TransactionItemSrch",
+        "in_ConfigSearch"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
